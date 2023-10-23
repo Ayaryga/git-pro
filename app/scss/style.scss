@@ -13,6 +13,8 @@ body {
   justify-content: flex-start;
   min-height: 100%;
   background-color: #f5f6f9;
+  overflow: hidden;
+  background-repeat: no-repeat;
 }
 ul {
   list-style: none;
